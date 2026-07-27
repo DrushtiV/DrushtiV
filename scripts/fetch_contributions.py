@@ -8,6 +8,7 @@ Usage:
     python scripts/fetch_contributions.py
 """
 import json
+import os
 import requests
 from bs4 import BeautifulSoup
 
@@ -63,6 +64,7 @@ def fetch():
         "best_day": best_day,
     }
 
+    os.makedirs(os.path.dirname(OUTPUT_JSON), exist_ok=True)
     with open(OUTPUT_JSON, "w") as f:
         json.dump(data, f, indent=2)
     print(f"✅ Saved {len(days_sorted)} days, {total} contributions -> {OUTPUT_JSON}")
