@@ -1,0 +1,4 @@
+# Data folder placeholder
+
+This file exists only so Git tracks this empty folder.
+fetch_contributions.py will create contributions.json here automatically.
