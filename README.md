@@ -1,21 +1,17 @@
+<h1 align="center">Hi, I'm Drushti Vagal 👋</h1>
+<h3 align="center"> AI/ML Engineer · Computer Vision · BI Developer · CE 2026 Graduate </h3>
+<p align="center">
+📍 Mumbai, India &nbsp;·&nbsp; 🟢 Open to Work — AI/ML Engineer · Data Scientist · Analytics Engineer · BI Developer
+</p>
+<p align="center">
+<a href="https://drushtivagal.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/drushti-v/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:drushtivagal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
 # drushti@github ~ $ ./contributions.sh
 
 ![contrib heatmap](./contrib-heatmap.svg)
-
-## drushti@github ~ $ whoami
-
-![drushti-ascii](./drushti-ascii.svg)
-![info-card](./info-card.svg)
-
----
-
-### AI/ML Engineer · Computer Vision · FastAPI Backend Builder · CE 2026 Graduate
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-drushtivagal.github.io-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://drushtivagal.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drushti-v/)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:drushtivagal22@gmail.com)
-
-📍 Mumbai, India · 🟢 **Open to Work** — AI/ML Engineer · Data Scientist · Analytics Engineer · BI Developer
 
 ---
 
@@ -59,25 +55,17 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 
 ---
 
-## 🛠️ Tech Stack
-
-> This is a full reference list — **delete whatever you haven't actually used.** Keep it honest; recruiters do check.
-
 ## 🛠️ Tech Stack & Skills
 
-### **Core Languages & Primary Frameworks**
+**Languages & ML:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=flat-square&logo=opencv&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel%2FPower%20Query-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+**Backend & Deployment:** ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Data & BI:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+---
 
 ---
 
@@ -91,10 +79,21 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  
+![](https://github-readme-stats.shion.dev/api?username=DrushtiV&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=DrushtiV&theme=one_dark_pro&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DrushtiV&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DrushtiV&show_icons=true&hide_border=true&theme=default)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrushtiV&layout=compact&hide_border=true)
+</div>
+
 ![GitHub contribution grid snake animation](https://raw.githubusercontent.com/DrushtiV/DrushtiV/output/github-contribution-grid-snake.svg)
+---
+# 📊 GitHub Stats:
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
@@ -104,3 +103,4 @@ Actively interviewing — happy to talk ML systems, computer vision, or BI work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://drushtivagal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drushti-v/)
+]
