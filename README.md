@@ -103,4 +103,3 @@ Actively interviewing — happy to talk ML systems, computer vision, or BI work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://drushtivagal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drushti-v/)
-]
