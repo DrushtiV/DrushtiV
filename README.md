@@ -31,7 +31,7 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 - ⚡ **Sub-200ms** end-to-end latency
 - 🧩 Built with `DeepFace` · `MTCNN` · `FaceNet` · `OpenCV` · `FastAPI` · `SQLAlchemy`
 
-> ⚠️ Double-check this repo is **public** and set as your **first pinned repo** — swap the link above for the real URL if the name differs.
+> ⚠️ Under working...
 
 ---
 
@@ -46,6 +46,7 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 | [**Stock Price LSTM Dashboard**](https://github.com/DrushtiV/Stock-Price-LSTM-Dashboard) | Forecasts stock trends with deep learning | LSTM · Streamlit/Dash |
 | [**Phishing URL Detector**](https://github.com/DrushtiV/Phishing-URL-Detector-) | Flags malicious URLs from engineered features | Random Forest · FastAPI |
 | [**Resume ATS Scorer**](https://github.com/DrushtiV/Resume-ATS-Scorer) | Scores a resume against a job description | NLP · TF-IDF · FastAPI |
+| More Projects coming..... |  |  |
 
 ---
 
