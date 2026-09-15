@@ -44,7 +44,7 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 | [**Resume ATS Scorer**](https://github.com/DrushtiV/Resume-ATS-Scorer) | Scores a resume against a job description | NLP · TF-IDF · FastAPI |
 | [**PRISM 3D Product Configurator**](https://github.com/DrushtiV/PRISM-Interactive-WebGL-3D-Product-Configurator) | Interactive WebGL tool for real-time 3D product customization and rendering | WebGL · Three.js · JavaScript |
 | [**KV Raft Store**](https://github.com/DrushtiV/kv-raft-store) | Distributed key-value store using the Raft consensus algorithm for fault-tolerant state replication | Go · Raft Consensus · Distributed Systems |
-| [**VectorSync**](https://github.com/DrushtiV/VectorSync) | Vector database synchronization tool for high-dimensional embeddings management | Python · Vector DB · Embeddings |
+| [**VectorSync**](https://github.com/DrushtiV/VectorSync) | Vector database synchronization tool for high-dimensional embeddings management | React.js · TypeScript · Vite · WebSockets |
 | More Projects coming..... |  |  |
 
 ---
