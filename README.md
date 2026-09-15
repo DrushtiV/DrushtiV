@@ -9,10 +9,6 @@
 <a href="mailto:drushtivagal22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-# drushti@github ~ $ ./contributions.sh
-
-![contrib heatmap](./contrib-heatmap.svg)
-
 ---
 
 ### About Me
@@ -103,12 +99,8 @@ An end-to-end real-time face recognition pipeline, built as a full production-sh
 
 </div>
 
-![GitHub contribution grid snake animation](https://raw.githubusercontent.com/DrushtiV/DrushtiV/output/github-contribution-grid-snake.svg)
 ---
-# 📊 GitHub Stats:
 
----
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
