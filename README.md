@@ -12,8 +12,11 @@
 
 ### Growing my Pet Koi!!!
 
-![My Dynamic Git-Tulkun Ecosystem](https://raw.githubusercontent.com/DrushtiV/git-tulkun-generator/main/tulkun-ecosystem.svg)
-
+<p align="center">
+  <a href="https://github.com/PramudithaN/git-tulkun">
+    <img src="https://raw.githubusercontent.com/DrushtiV/DrushtiV/output/tulkun/tulkun.gif" width="640" alt="DrushtiV's git-tulkun" />
+  </a>
+</p>
 
 ---
 
