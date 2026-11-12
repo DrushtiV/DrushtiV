@@ -10,13 +10,14 @@
 </p>
 ---
 
-### Growing my Pet Koi!!!
+### 🎏 Growing my Pet Koi
+![My Dynamic Pixel Koi](https://raw.githubusercontent.com/DrushtiV/git-tulkun-generator/main/tulkun-ecosystem.svg)
 
-<p align="center">
-  <a href="https://github.com/PramudithaN/git-tulkun">
-    <img src="https://raw.githubusercontent.com/DrushtiV/DrushtiV/output/tulkun/tulkun.gif" width="640" alt="DrushtiV's git-tulkun" />
-  </a>
-</p>
+---
+
+### 📊 Interactive Agent Portfolio Sheet
+**[Launch Live Multiplayer Agent Sheet ↗](https://drushtiv.github.io/agent-portfolio-sheet/)**  
+Watch 8 autonomous AI agent cursors populate my ML, Computer Vision, and BI project metrics, formulas, and accuracy charts in real time.
 
 ---
 
