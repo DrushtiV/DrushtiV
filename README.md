@@ -11,8 +11,7 @@
 ---
 
 ### 🎏 Growing my Pet Koi
-![My Dynamic Pixel Koi](https://raw.githubusercontent.com/DrushtiV/git-tulkun-generator/main/tulkun-ecosystem.svg)
-
+![My Dynamic Pixel Koi](https://raw.githubusercontent.com/DrushtiV/git-tulkun-generator/main/tulkun-ecosystem.svg?v=2)
 ---
 
 ### 📊 Interactive Agent Portfolio Sheet
